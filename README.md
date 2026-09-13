@@ -430,7 +430,7 @@ The selected vendor is then validated and the purchase can be executed.
 
 ---
 
-# 🔐 Safety and Reliability
+#  Safety and Reliability
 
 The project includes several safeguards around AI decision-making:
 
@@ -456,7 +456,7 @@ If an action fails, the agent searches for another feasible solution.
 
 ---
 
-# 🎯 Why This Project Matters
+#  Why This Project Matters
 
 Retail supply chains are dynamic systems where disruptions can occur unexpectedly.
 
@@ -492,22 +492,22 @@ This reduces the need for manual intervention and demonstrates how **AI agents c
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 The current project uses simulated JSON data. It can be extended with:
 
-* 📡 Real-time inventory APIs
-* 🏪 Real vendor APIs
-* 🚚 Real-time shipment tracking
-* 🗺️ Live route and traffic data
-* 📈 Demand forecasting
-* 💰 Dynamic pricing
-* 🌱 Advanced carbon optimization
-* 🗄️ Database integration
-* 🔐 Role-based access
-* 📊 Advanced analytics dashboard
-* ☁️ Cloud deployment
-* 🤖 Multi-agent supply-chain architecture
+*  Real-time inventory APIs
+*  Real vendor APIs
+*  Real-time shipment tracking
+* Live route and traffic data
+*  Demand forecasting
+*  Dynamic pricing
+* Advanced carbon optimization
+* Database integration
+*  Role-based access
+*  Advanced analytics dashboard
+*  Cloud deployment
+*  Multi-agent supply-chain architecture
 
 
 The key idea is:
@@ -516,7 +516,7 @@ The key idea is:
 
 ---
 
-## ⭐ Project Workflow
+##  Project Workflow
 
 ```text
  Monitor Supply Chain
