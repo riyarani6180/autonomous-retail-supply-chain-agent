@@ -1,11 +1,12 @@
 import os
 import json
+import streamlit as st
 
 from dotenv import load_dotenv
 from google import genai
 
 
-# Load .env file
+# Load .env file for local development
 load_dotenv()
 
 
@@ -13,10 +14,14 @@ load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 
 
+# Get API key from Streamlit Cloud Secrets if .env is not available
 if not api_key:
-    raise ValueError(
-        "GEMINI_API_KEY not found in .env file."
-    )
+    api_key = st.secrets.get("GEMINI_API_KEY")
+
+
+# Check API key
+if not api_key:
+    raise ValueError("GEMINI_API_KEY not configured.")
 
 
 # Create Gemini client
