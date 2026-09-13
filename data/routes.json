@@ -1,0 +1,29 @@
+[
+    {
+        "route_id": "R001",
+        "origin": "Delhi",
+        "destination": "Bhubaneswar",
+        "cost": 5000,
+        "delivery_days": 2,
+        "carbon": 20,
+        "available": true
+    },
+    {
+        "route_id": "R002",
+        "origin": "Delhi",
+        "destination": "Bhubaneswar",
+        "cost": 7000,
+        "delivery_days": 1,
+        "carbon": 30,
+        "available": true
+    },
+    {
+        "route_id": "R003",
+        "origin": "Kolkata",
+        "destination": "Bhubaneswar",
+        "cost": 3500,
+        "delivery_days": 1,
+        "carbon": 10,
+        "available": true
+    }
+]

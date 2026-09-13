@@ -1,0 +1,29 @@
+[
+    {
+        "vendor_id": "V001",
+        "name": "TechSource",
+        "product_id": "P001",
+        "price": 52000,
+        "delivery_days": 3,
+        "carbon": 18,
+        "available_quantity": 50
+    },
+    {
+        "vendor_id": "V002",
+        "name": "ElectroMart",
+        "product_id": "P001",
+        "price": 54000,
+        "delivery_days": 2,
+        "carbon": 12,
+        "available_quantity": 30
+    },
+    {
+        "vendor_id": "V003",
+        "name": "QuickTech",
+        "product_id": "P001",
+        "price": 56000,
+        "delivery_days": 1,
+        "carbon": 25,
+        "available_quantity": 15
+    }
+]

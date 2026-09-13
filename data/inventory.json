@@ -1,0 +1,26 @@
+[
+    {
+        "product_id": "P001",
+        "product": "Gaming Laptop",
+        "warehouse": "Bhubaneswar",
+        "stock": 8,
+        "reorder_point": 10,
+        "daily_demand": 5
+    },
+    {
+        "product_id": "P002",
+        "product": "Wireless Mouse",
+        "warehouse": "Bhubaneswar",
+        "stock": 40,
+        "reorder_point": 15,
+        "daily_demand": 8
+    },
+    {
+        "product_id": "P003",
+        "product": "Keyboard",
+        "warehouse": "Kolkata",
+        "stock": 12,
+        "reorder_point": 15,
+        "daily_demand": 4
+    }
+]

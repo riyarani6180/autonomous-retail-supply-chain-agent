@@ -1,0 +1,38 @@
+[
+    {
+        "shipment_id": "S001",
+        "product_id": "P001",
+        "product": "Gaming Laptop",
+        "quantity": 20,
+        "origin": "Delhi",
+        "destination": "Bhubaneswar",
+        "status": "IN_TRANSIT",
+        "expected_days": 2,
+        "delay_days": 0,
+        "route_id": "R001"
+    },
+    {
+        "shipment_id": "S002",
+        "product_id": "P002",
+        "product": "Wireless Mouse",
+        "quantity": 30,
+        "origin": "Kolkata",
+        "destination": "Bhubaneswar",
+        "status": "IN_TRANSIT",
+        "expected_days": 1,
+        "delay_days": 0,
+        "route_id": "R003"
+    },
+    {
+        "shipment_id": "S003",
+        "product_id": "P003",
+        "product": "Keyboard",
+        "quantity": 15,
+        "origin": "Kolkata",
+        "destination": "Bhubaneswar",
+        "status": "IN_TRANSIT",
+        "expected_days": 2,
+        "delay_days": 0,
+        "route_id": "R003"
+    }
+]
