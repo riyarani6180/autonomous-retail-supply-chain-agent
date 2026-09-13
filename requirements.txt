@@ -1,4 +1,7 @@
 streamlit
 google-genai
 python-dotenv
-pandas
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
